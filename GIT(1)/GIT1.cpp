@@ -2,10 +2,19 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
+#include <cstdlib>
+
+using namespace std;
 
 
-int main()
+void main(void)
+
 {
-    return 0;
+	setlocale(LC_ALL, "UKR");
+	cout << "1. Прiзвище: Коцюбинська \n";
+
+
+	system("pause");
 }
 
