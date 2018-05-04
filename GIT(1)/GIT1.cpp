@@ -13,6 +13,7 @@ void main(void)
 {
 	setlocale(LC_ALL, "UKR");
 	cout << "1. Прiзвище: Коцюбинська \n";
+	cout << "2.  Iм'я : Ольга \n";
 
 
 	system("pause");
