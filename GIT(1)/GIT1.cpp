@@ -30,6 +30,7 @@ void main(void)
 	cout << "8.2 Казки \n";
 	cout << "1. Андерсон \n";
 	cout << "2. Народ \n";
+	cout << "3. Пушкін \n";
 	system("pause");
 }
 
