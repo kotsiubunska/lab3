@@ -4,6 +4,8 @@
 #include "stdafx.h"
 #include <iostream>
 #include <cstdlib>
+#include <locale>;
+#include "windows.h";
 
 using namespace std;
 
@@ -11,10 +13,16 @@ using namespace std;
 void main(void)
 
 {
-	setlocale(LC_ALL, "UKR");
+	//setlocale(LC_CTYPE, "UKR");
+	SetConsoleCP(1251);
+	SetConsoleOutputCP(1251);
+
+
 	cout << "1. Прiзвище: Коцюбинська \n";
 	cout << "2.  Iм'я : Ольга \n";
 	cout << "3. По батькові : Вадимівна \n";
+	cout << "4. Місце народження : Вінниця \n";
+	
 	
 
 	system("pause");
