@@ -32,6 +32,7 @@ void main(void)
 	cout << "3.Парена \n";
 	cout << "4.Пай \n";
 	cout << "4.1 З рибою \n";
+	cout << "4.2 З м'ясом \n";
 
 	
 
