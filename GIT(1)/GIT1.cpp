@@ -39,6 +39,8 @@ void main(void)
 	cout << "17.2 Фентезі \n";
 	cout << " 17.3 Драма \n";
 	cout << "17.4 Наукові \n";
+	cout << "17.5 Триллер \n";
+	cout
 
 	system("pause");
 }
