@@ -30,6 +30,7 @@ void main(void)
 	cout << "8.2 Казки \n";
 	cout << "8.3 Пригодницькі \n";
 	cout << "8.4 Наукові \n";
+	cout << "8.5 Технічні  \n";
 
 	system("pause");
 }
