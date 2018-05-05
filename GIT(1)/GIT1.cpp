@@ -40,7 +40,7 @@ void main(void)
 	cout << " 17.3 Драма \n";
 	cout << "17.4 Наукові \n";
 	cout << "17.5 Триллер \n";
-	cout
+	cout << " 1. Червоний горобець \n";
 
 	system("pause");
 }
