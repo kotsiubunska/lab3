@@ -32,6 +32,8 @@ void main(void)
 	cout << "2. Народ \n";
 	cout << "3. Пушкін \n";
 	cout << "4. Брати Грим \n";
+	cout << "5. Іван Франко  \n";
+
 	system("pause");
 }
 
