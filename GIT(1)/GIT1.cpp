@@ -30,6 +30,7 @@ void main(void)
 	cout << "1.Варена \n";
 	cout << "1.1 На кострі \n";
 	cout << "2.1 На плиті \n";
+	cout << "2.3 В печі \n";
 	
 
 	system("pause");
