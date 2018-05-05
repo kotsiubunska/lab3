@@ -31,7 +31,7 @@ void main(void)
 	cout << "2.Жарена \n";
 	cout << "3.Парена \n";
 	cout << "4.Пай \n";
-	
+	cout << "4.1 З рибою \n";
 
 	
 
