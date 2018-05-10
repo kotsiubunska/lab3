@@ -47,6 +47,7 @@ void main(void)
 	cout << "Коміт 2 \n";
 	cout << "Коміт 3 \n";
 	cout << " Коміт 4 \n";
+	cout << "Коміт 1.1 \n";
 	system("pause");
 }
 
