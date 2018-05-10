@@ -45,6 +45,7 @@ void main(void)
 	cout << "3. Астрал \n";
 	cout << "Коміт 1 \n";
 	cout << "Коміт 2 \n";
+	cout << "Коміт 3 \n";
 	system("pause");
 }
 
