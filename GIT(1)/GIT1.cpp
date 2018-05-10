@@ -43,6 +43,7 @@ void main(void)
 	cout << " 1. Червоний горобець \n";
 	cout << "2.Погоня за урагоном \n";
 	cout << "3. Астрал \n";
+	cout << "Коміт 1 \n";
 
 	system("pause");
 }
