@@ -44,6 +44,8 @@ void main(void)
 	cout << "2.Погоня за урагоном \n";
 	cout << "3. Астрал \n";
 	cout << "Коміт 1 \n";
+	cout << "Коміт 2 \n";
+	cout << "Коміт 3 \n";
 	cout << " Коміт 4 \n";
 	system("pause");
 }
