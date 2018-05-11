@@ -51,6 +51,8 @@ void main(void)
 	cout << "Коміт 2.2 \n";
 	cout << "Коміт 3.3 \n";
 	cout << "Коміт 4.4 \n";
+	cout << "Я здаю 6 лабу \n";
+
 	system("pause");
 }
 
